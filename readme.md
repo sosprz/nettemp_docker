@@ -1,7 +1,7 @@
 ### Latest nettemp version is in docker!
 Please check dockerhub how to install:
 
-https://hub.docker.com/r/nettemp/nettemp
+https://hub.docker.com/r/przemeksdocker/nettemp
 
 
 To read and send data you need https://github.com/sosprz/nettemp_client.
